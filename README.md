@@ -24,3 +24,7 @@ This program implements a simple game of battleship which uses 2D arrays, move v
 ## **Pascal's triangle**
 
 This program uses for loops, if loops and while loops to draw a Pascal Triangle (https://en.wikipedia.org/wiki/Pascal%27s_triangle) with size given by the user.
+
+![image](https://user-images.githubusercontent.com/95399226/148217665-0e065d44-b2b9-45f9-85ae-3cf7cc087bc5.png)
+                   
+                   Figure 4: Example of input and output
